@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/EFCoreDemo/v16
+/Demo.App/bin/Debug/netcoreapp3.1
+/Demo.App/obj
+/Demo.Data/bin/Debug/netcoreapp3.1
+/Demo.Data/obj
+/Demo.Domain/bin/Debug/netcoreapp3.1
+/Demo.Domain/obj
